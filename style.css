@@ -1,0 +1,30 @@
+body {
+    background: #ced4d8;
+}
+h1 {
+    background-color: #AC6AC7;
+}
+h2 {
+    color: rgb(255, 165, 0);
+}
+li {
+    color: blue;
+}
+p {
+    background: gold;
+}
+label {
+    border: 5px dotted pink;
+}
+.first {
+    background: #FFF;
+}
+#important {
+    border: 3px dashed #00F;
+}
+div > p {
+    font-size: 30px;
+/* }
+div > label {
+    background-color: #808080;
+} */
